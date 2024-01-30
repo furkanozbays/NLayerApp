@@ -1,0 +1,11 @@
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\bin\Debug\net8.0\NLayerApp.Caching.deps.json
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\bin\Debug\net8.0\NLayerApp.Caching.dll
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\bin\Debug\net8.0\NLayerApp.Caching.pdb
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\obj\Debug\net8.0\NLayerApp.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\obj\Debug\net8.0\NLayerApp.Caching.AssemblyInfoInputs.cache
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\obj\Debug\net8.0\NLayerApp.Caching.AssemblyInfo.cs
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\obj\Debug\net8.0\NLayerApp.Caching.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\obj\Debug\net8.0\NLayerApp.Caching.dll
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\obj\Debug\net8.0\refint\NLayerApp.Caching.dll
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\obj\Debug\net8.0\NLayerApp.Caching.pdb
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Caching\obj\Debug\net8.0\ref\NLayerApp.Caching.dll

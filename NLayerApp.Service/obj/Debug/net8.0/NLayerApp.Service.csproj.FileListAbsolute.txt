@@ -1,0 +1,17 @@
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\bin\Debug\net8.0\NLayerApp.Service.deps.json
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\bin\Debug\net8.0\NLayerApp.Service.dll
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\bin\Debug\net8.0\NLayerApp.Service.pdb
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\bin\Debug\net8.0\NLayerApp.Core.dll
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\bin\Debug\net8.0\NLayerApp.Repository.dll
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\bin\Debug\net8.0\NLayerApp.Repository.pdb
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\bin\Debug\net8.0\NLayerApp.Core.pdb
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\obj\Debug\net8.0\NLayerApp.Service.csproj.AssemblyReference.cache
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\obj\Debug\net8.0\NLayerApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\obj\Debug\net8.0\NLayerApp.Service.AssemblyInfoInputs.cache
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\obj\Debug\net8.0\NLayerApp.Service.AssemblyInfo.cs
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\obj\Debug\net8.0\NLayerApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\obj\Debug\net8.0\NLayerApp.Service.csproj.CopyComplete
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\obj\Debug\net8.0\NLayerApp.Service.dll
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\obj\Debug\net8.0\refint\NLayerApp.Service.dll
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\obj\Debug\net8.0\NLayerApp.Service.pdb
+C:\Users\Furkan\RiderProjects\Furkan\NLayerApp\NLayerApp.Service\obj\Debug\net8.0\ref\NLayerApp.Service.dll
