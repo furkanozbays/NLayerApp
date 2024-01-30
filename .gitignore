@@ -1,0 +1,7 @@
+# Yorumlar bu şekilde eklenir
+node_modules/    # Bir dizini yoksay
+.env             # Özel bir dosyayı yoksay
+*.log            # Tüm .log uzantılı dosyaları yoksay
+.dll
+.pdb
+.cache
