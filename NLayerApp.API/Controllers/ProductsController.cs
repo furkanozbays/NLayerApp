@@ -14,11 +14,13 @@ public class ProductsController : CustomBaseController
 {
     private readonly IMapper _mapper;
     private readonly IService<Product> _service;
+    private readonly IProductService _productService;
 
-    public ProductsController(IMapper mapper, IService<Product> service)
+    public ProductsController(IMapper mapper, IService<Product> service, IProductService productService)
     {
         _mapper = mapper;
         _service = service;
+        _productService = productService;
     }
 
     [HttpGet]
@@ -67,6 +69,11 @@ public class ProductsController : CustomBaseController
         await _service.RemoveAsync(product);
         return CreateActionResult(CustomResponseDto<NoContentDto>.Success(204));
     }
-    
-    
+
+
+    [HttpGet("GetProductsWithCategory")]
+    public async Task<IActionResult> GetProductsWithCategory()
+    {
+        return CreateActionResult(await _productService.GetProductsWithCategoryAsync());
+    }
 }
