@@ -1,5 +1,6 @@
 using AutoMapper;
 using NLayerApp.Core.DTOs;
+using NLayerApp.Core.DTOs.Category;
 using NLayerApp.Core.DTOs.Product;
 using NLayerApp.Core.Models;
 
@@ -14,5 +15,6 @@ public class MapProfile : Profile
         CreateMap<ProductFeature, ProductFeatureDto>().ReverseMap();
         CreateMap<ProductUpdateDto, Product>();
         CreateMap<ProductWithCategoryDto, Product>().ReverseMap();
+        CreateMap<Category, CategoryWithProductsDto>().ReverseMap();
     }
 }
