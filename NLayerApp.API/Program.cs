@@ -1,6 +1,9 @@
 using System.Reflection;
+using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using NLayerApp.API.Filters;
 using NLayerApp.Core;
 using NLayerApp.Core.Models;
 using NLayerApp.Core.Repositories;
@@ -10,10 +13,17 @@ using NLayerApp.Repository.Repositories;
 using NLayerApp.Repository.UnitOfWorks;
 using NLayerApp.Service.Mapping;
 using NLayerApp.Service.Services;
+using NLayerApp.Service.Validation;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(options => options.Filters.Add(new ValidateFilterAttribute())).AddFluentValidation(x =>
+    x.RegisterValidatorsFromAssemblyContaining<ProductDtoValidator>());
+builder.Services.Configure<ApiBehaviorOptions>(options =>
+{
+    options.SuppressModelStateInvalidFilter = true;
+});
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
